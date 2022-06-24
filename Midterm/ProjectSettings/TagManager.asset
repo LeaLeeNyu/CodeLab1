@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - cherry
+  - background
+  - enemy
+  - dimond
+  - house
+  - player
+  - deadLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TileMap
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3266296123
+    locked: 0
+  - name: plant
+    uniqueID: 1449922753
+    locked: 0
+  - name: partical
+    uniqueID: 1510096421
+    locked: 0
+  - name: tileMap
+    uniqueID: 3592526911
+    locked: 0
+  - name: enemy
+    uniqueID: 574030169
+    locked: 0
+  - name: player
+    uniqueID: 2599286847
+    locked: 0
+  - name: house
+    uniqueID: 2104459657
+    locked: 0
+  - name: cherry
+    uniqueID: 3908278577
+    locked: 0
+  - name: frontBG
+    uniqueID: 49170011
+    locked: 0

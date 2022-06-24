@@ -1,0 +1,34 @@
+{
+"sceneOne": [
+//in each {}, is a JASONObject
+{
+"index":0,
+"line":"Hello,madam!",
+"goto":1
+},
+{
+"index":1,
+"line":"Hello! How are you, sir?",
+"choice": ["I'm fine, thanks.","Not good."],
+"goto":[2,3]
+},
+{
+"index":2,
+"line":"That is so lovely to heard.",
+"goto":4
+},
+{
+"index":3,
+"line":"Oh no, what happened?",
+"goto":5
+},
+{
+"index":4,
+"line":"How about you?"
+},
+{
+"index":5,
+"line":"I lost my key."
+}
+]
+}
